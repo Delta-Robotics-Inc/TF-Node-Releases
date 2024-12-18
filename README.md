@@ -1,2 +1,5 @@
 # TF-Node-Releases
-Releases for both the ThermoFlex Node Firmware and ThermoFlex Node Updater.  For instructions on how to update your device, please see the README or visit docs.deltaroboticsinc.com
+Releases for both the ThermoFlex Node Firmware and ThermoFlex Node Updater.
+
+# How to Update ThermoFlex Node Firmware
+First, download the `ThermoFlex Node Updater` tool for your appropriate operating system from the `updater-releases` directory.
